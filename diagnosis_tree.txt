@@ -1,0 +1,81 @@
+Q:Do you have a fever?
+Q:Do you have a rash?
+Q:Do you have small red itchy bumps that blister?
+A:Chickenpox
+Q:Are the spots flat, and do you have cough & red eyes?
+A:Measles
+Q:Do you have joint pain and were recently bitten by a mosquito?
+A:Dengue Fever
+A:Viral Rash
+Q:Do you have a sore throat?
+Q:Do you have white patches?
+A:Strep Throat
+Q:Do you have a fever and a cough?
+A:Flu
+Q:Is your throat red and swollen?
+A:Tonsillitis
+A:Viral Sore Throat
+Q:Do you have a fever and body aches?
+Q:Have you lost your sense of taste or smell?
+A:COVID-19
+Q:Is your nose stuffy or runny?
+A:Common Cold
+A:Flu
+Q:Do you have a cough?
+A:Bronchitis
+A:Viral Infection
+Q:Do you have itchy eyes?
+Q:Is your nose also runny or stuffy?
+A:Allergies
+A:Eye Irritation from Dust or Screens
+Q:Do you have stomach pain?
+Q:Do you have diarrhea or vomiting?
+Q:Have you eaten spoiled or street food recently?
+A:Food Poisoning
+A:Stomach Flu
+Q:Does the pain feel sharp in your lower right side?
+A:Appendicitis - Seek medical help
+Q:Is the pain burning or related to meals?
+A:Acid Reflux or Ulcer
+A:General Indigestion
+Q:Do you have a cough?
+A:Cough
+A:Fatigue / Dehydration
+Q:Do you have difficulty breathing?
+Q:Is it sudden and severe, especially after activity?
+A:Asthma Attack
+Q:Do you have fever and chest pain?
+A:Pneumonia
+A:Mild Asthma or Anxiety
+Q:Are you experiencing frequent headaches?
+Q:Is the pain throbbing and one-sided?
+A:Migraine
+Q:Is it accompanied by a stiff neck or fever?
+A:Meningitis - Seek emergency care
+A:Tension Headache
+Q:Do you feel unusually sad, tired, or unmotivated?
+Q:Is it ongoing for more than 2 weeks?
+A:Depression
+A:Mild Burnout or Fatigue
+Q:Do you feel anxious, panicky, or on edge?
+Q:Are your symptoms triggered by a specific situation?
+A:Anxiety Disorder
+A:Generalized Anxiety
+Q:Do you have pain while urinating?
+Q:Is your urine cloudy or foul-smelling?
+A:Urinary Tract Infection (UTI)
+Q:Do you also have back pain or fever?
+A:Kidney Infection - Seek medical help
+A:Mild Bladder Irritation
+Q:Is your skin red and flaky?
+Q:Does it appear on elbows, knees, or scalp?
+A:Psoriasis
+A:Eczema or Dermatitis
+Q:Do you have a sore or white coating in your mouth?
+Q:Does it hurt when you swallow?
+A:Oral Thrush
+A:Canker Sores
+Q:Are you feeling dizzy or lightheaded?
+Q:Is it worse when standing quickly?
+A:Low Blood Pressure
+A:Dehydration or Fatigue
