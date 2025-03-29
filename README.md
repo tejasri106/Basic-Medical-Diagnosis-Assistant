@@ -1,6 +1,7 @@
 # Basic-Medical-Diagnosis-Assistant
 
 **Medical Diagnosis Assistant**
+
 Welcome to the Medical Diagnosis Assistant, it's a basic, interactive Java-based tool designed to suggest possible medical conditions based on your symptoms. By answering a series of yes/no questions, the program will guide you through a diagnosis. If the diagnosis is incorrect, the assistant will learn from your feedback and improve over time.
 
 ⚠️ Note: This is a basic diagnostic assistant. It is not a substitute for professional medical advice. Always consult a licensed healthcare provider for accurate diagnosis and treatment.
@@ -17,7 +18,7 @@ Simple GUI: User-friendly interface built with Java Swing.
 
 Automatic Saving: Updates the diagnosis tree (diagnosis_tree.txt) with new information.
 
-**🛠️ How It Works**
+**How It Works**
 
 The assistant asks a series of yes/no questions.
 
