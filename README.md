@@ -2,9 +2,12 @@
 
 **Medical Diagnosis Assistant**
 
-Welcome to the Medical Diagnosis Assistant, it's a basic, interactive Java-based tool designed to suggest possible medical conditions based on your symptoms. By answering a series of yes/no questions, the program will guide you through a diagnosis. If the diagnosis is incorrect, the assistant will learn from your feedback and improve over time.
+Welcome to the Medical Diagnosis Assistant, it's a basic, interactive Java-based tool designed to suggest possible medical conditions based on your symptoms. 
+By answering a series of yes/no questions, the program will guide you through a diagnosis. If the diagnosis is incorrect, the assistant will learn from your feedback 
+and improve over time.
 
-⚠️ Note: This is a basic diagnostic assistant. It is not a substitute for professional medical advice. Always consult a licensed healthcare provider for accurate diagnosis and treatment.
+⚠️ Note: This is a basic diagnostic assistant. It is not a substitute for professional medical advice. Always consult a licensed healthcare provider for 
+accurate diagnosis and treatment.
 
 **Features**
 
@@ -73,7 +76,8 @@ MedicalDiagnosisAssistant/
 Diagnosis.java: The graphical interface using Java Swing.
 MedicalDiagnosisTree.java: Manages the decision tree and starts the diagnosis.
 TreeNode.java: Defines the decision tree structure.
-diagnosis_tree.txt: Stores the diagnosis tree in a readable format using Q: and A: prefixes. Each Q, has 2 A's as yes and no nodes. New question and answers can be added at appropriate areas.
+diagnosis_tree.txt: Stores the diagnosis tree in a readable format using Q: and A: prefixes. Each Q, has 2 A's as yes and no nodes. 
+New question and answers can be added at appropriate areas.
 DiagnosisTree.java: Non-graphical interface.
 
 **Future Advancements**
