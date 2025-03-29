@@ -32,7 +32,8 @@ You can also select "I'm Not Sure" if you are uncertain about the diagnosis.
 
 All updates are saved to improve future suggestions.
 
-⚙️ Installation Instructions
+**Installation Instructions**
+
 Clone the Repository
 git clone https://github.com/tejasri106/Basic-Medical-Diagnosis-Assistant.git
 Navigate to the Project Directory:
@@ -72,7 +73,7 @@ MedicalDiagnosisAssistant/
 Diagnosis.java: The graphical interface using Java Swing.
 MedicalDiagnosisTree.java: Manages the decision tree and starts the diagnosis.
 TreeNode.java: Defines the decision tree structure.
-diagnosis_tree.txt: Stores the diagnosis tree in a readable format using Q: and A: prefixes.
+diagnosis_tree.txt: Stores the diagnosis tree in a readable format using Q: and A: prefixes. Each Q, has 2 A's as yes and no nodes. New question and answers can be added at appropriate areas.
 DiagnosisTree.java: Non-graphical interface.
 
 **Future Advancements**
